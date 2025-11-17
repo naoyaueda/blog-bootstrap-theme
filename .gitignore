@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+debug.log
+error_log
+
+# WordPress specific (if they somehow end up in theme dir)
+wp-config.php
+
+# Dependency directories
+/node_modules
+/vendor
+
+# Build/distribution directories
+/build
+/dist
+
+# Theme archives
+*.zip
